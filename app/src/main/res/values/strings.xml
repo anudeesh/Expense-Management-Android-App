@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Expense App</string>
+    <string name="button_add_expense">Add Expense</string>
+    <string name="button_edit_expense">Edit Expense</string>
+    <string name="button_delete_expense">Delete Expense</string>
+    <string name="button_show_expenses">Show Expenses</string>
+    <string name="button_finish">Finish</string>
+    <string name="add_exp_label">Add An Expense</string>
+    <string name="exp_name_label">Expense Name</string>
+    <string name="category_label">Category</string>
+    <string name="spinner_prompt">Select Category</string>
+    <string name="amount_label">Amount</string>
+    <string name="date_label">Date</string>
+    <string name="receipt_label">Receipt</string>
+    <string name="select_exp_label">Select Expense</string>
+    <string name="save_label">Save</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="delete_label">Delete</string>
+    <string name="exp_details_label">Expense Details</string>
+    <string name="show_name">Name</string>
+    <string name="show_category_label">Category</string>
+    <string name="show_amount_label">Amount</string>
+    <string name="show_date_label">Date</string>
+    <string name="show_receipt_label">Receipt</string>
+    <string name="finish_label">Finish</string>
+    <string-array name="categories">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
